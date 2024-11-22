@@ -1,0 +1,107 @@
+/*
+ * Unity C# 代码风格与最佳实践指南
+ *
+ * 本指南旨在提供一组统一的编程规范和风格，帮助Unity开发者编写更加清晰、一致和可维护的代码。
+ */
+
+// 1. 命名规范
+// - 类名、方法名：使用PascalCase命名法，强调易读性。例如：PlayerController, CalculateDamage。
+// - 变量命名：
+//   - 公共变量和属性：PascalCase，如 Health。
+//   - 私有变量：_camelCase，前缀下划线突出私有属性，如 _speed。
+//   - 常量：全大写字母与下划线，如 MAX_HEALTH，易于识别。
+
+// 2. 类文件结构
+// 按照以下顺序优化代码组织，增强可读性：
+//   1. 常量
+//   2. 字段
+//   3. 属性
+//   4. 生命周期方法（Awake, Start, Update等）
+//   5. 公共方法
+//   6. 私有方法
+
+// 3. 缩进和空格
+// - 使用4空格缩进，避免使用Tab，确保代码在不同环境下的一致性。
+// - 运算符和逗号后空一格，提高代码可读性。
+
+// 4. 大括号风格
+// - 采用K&R风格，左大括号同行，右大括号新行，适用于所有代码块。
+/*
+if (condition)
+{
+    // 代码
+}
+else
+{
+    // 代码
+}
+*/
+
+// 5. 注释和文档
+// - 公共接口（方法、属性）使用XML文档注释，提供清晰的API文档。
+// - 复杂逻辑使用单行或多行注释说明，避免过度注释。
+
+// 6. 属性使用
+// - 鼓励使用属性封装字段，特别是需要在编辑器中暴露的私有字段，使用[SerializeField]。
+[SerializeField] private float _health;
+public float Health
+{
+    get => _health;
+    set => _health = Mathf.Clamp(value, 0, MAX_HEALTH);
+}
+
+// 7. 错误处理
+// - 使用try-catch处理可能的运行时错误，合理使用异常处理增强程序的健壮性。
+try
+{
+    // 可能出错的代码
+}
+catch (Exception ex)
+{
+    Debug.LogError($"错误发生: {ex.Message}");
+}
+
+// 8. 属性和封装
+// - 利用属性来保护字段，同时提供对外的访问或修改接口，增加代码的封装性和安全性。
+public float Speed { get; private set; }
+
+// 9. 异步和多线程
+// - 谨慎处理Unity中的异步和多线程操作，注意线程安全和Unity API的线程限制。
+
+// 10. Unity特有实践
+// - 利用Unity生命周期方法合理安排代码逻辑，使用[SerializeField]暴露私有字段给编辑器。
+[SerializeField] private GameObject _enemyPrefab;
+
+void Start()
+{
+    // 初始化代码
+}
+
+void Update()
+{
+    // 每帧执行代码
+}
+
+// 11. 单元测试
+// - 编写单元测试验证关键逻辑，使用Unity Test Framework，提高代码质量和稳定性。
+// 示例：测试Health类的伤害处理逻辑。
+public class HealthTests
+{
+    [Test]
+    public void HealthTakesDamageCorrectly()
+    {
+        var health = new Health(100);
+        health.TakeDamage(30);
+        Assert.AreEqual(70, health.CurrentHealth);
+    }
+
+    [Test]
+    public void HealthDoesNotGoNegative()
+    {
+        var health = new Health(50);
+        health.TakeDamage(60);
+        Assert.AreEqual(0, health.CurrentHealth);
+    }
+}
+
+
