@@ -39,7 +39,7 @@ public class UIMgr : Singleton<UIMgr>
     {
         //动态创建唯一的Canvas和EventSystem（摄像机）这一部分我没有使用到
         //uiCamera =
-        GameObject.Instantiate(ResMgr.GetInstance().GetObject("UI/UICamera")).GetComponent<Camera>();
+        //GameObject.Instantiate(ResMgr.GetInstance().GetObject("UI/UICamera")).GetComponent<Camera>();
         //ui摄像机过场景不移除 专门用来渲染UI面板
         //GameObject.DontDestroyOnLoad(uiCamera.gameObject);
         //动态创建Canvas

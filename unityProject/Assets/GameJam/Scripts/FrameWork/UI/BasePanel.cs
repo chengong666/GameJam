@@ -91,6 +91,7 @@ public abstract class BasePanel : MonoBehaviour
         {
             //获取当前控件的名称
             string controlName = controls[i].gameObject.name;
+            Debug.Log(i+"---"+controlName);
             if (!controlDic.ContainsKey(controlName))
             {
                 //添加组件
