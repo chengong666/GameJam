@@ -6,14 +6,19 @@ public class Timer : MonoBehaviour
 {
     public Text timerText; // 对于普通Text
     // public TextMeshProUGUI timerText; // 对于TextMeshPro
-    private float timeElapsed = 0f;
+    private float timeElapsed = 30f;
     private bool isRunning = true;
     
     void Update()
     {
+        if (timeElapsed<=0)
+        {
+            GameObject.Find("DrawCharacter").GetComponent<SpriteRenderer>().gameObject.SetActive(false);
+            this.gameObject.SetActive(false);
+        }
         if (isRunning)
         {
-            timeElapsed += Time.deltaTime; // 增加经过的时间
+            timeElapsed -= Time.deltaTime; // 增加经过的时间
             UpdateTimerText();
         }
     }

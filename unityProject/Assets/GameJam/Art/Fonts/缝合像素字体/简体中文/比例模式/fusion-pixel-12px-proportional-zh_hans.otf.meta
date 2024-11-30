@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: aa6fa3399948b304283a7cf29c538505
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fusion Pixel 12px Proportional zh_hans
+  fontNames:
+  - Fusion Pixel 12px Proportional zh_hans
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

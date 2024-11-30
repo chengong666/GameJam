@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4c1ce70f08c9e4440bc52c8be003f8c3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fusion Pixel 12px Monospaced ko
+  fontNames:
+  - Fusion Pixel 12px Monospaced ko
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

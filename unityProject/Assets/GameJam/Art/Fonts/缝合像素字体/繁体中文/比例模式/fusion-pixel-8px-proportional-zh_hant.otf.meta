@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 251cb056275d4e040be2220fcefb5204
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fusion Pixel 8px Proportional zh_hant
+  fontNames:
+  - Fusion Pixel 8px Proportional zh_hant
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

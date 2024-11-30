@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 30f299b5ee509ae4b95f911ba0746280
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fusion Pixel 12px Monospaced latin
+  fontNames:
+  - Fusion Pixel 12px Monospaced latin
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

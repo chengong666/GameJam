@@ -30,26 +30,19 @@ public abstract class Singleton<T> where T : class
 public class SingletonMonoCG<T> : MonoBehaviour where T : MonoBehaviour
 {
     public static T instance;
-    public static T GetInstance
+    public static T Instance
     {
         get
         {
             return instance;
         }
-}
+    }
     protected virtual void Awake()
     {
-        DontDestroyOnLoad(gameObject);
+        
         if (instance == null)
         {
             instance = this as T;
-        }
-        else
-        {
-            if (this.gameObject.name == "Canvas")
-            {
-                return;
-            }
         }
     }
 }

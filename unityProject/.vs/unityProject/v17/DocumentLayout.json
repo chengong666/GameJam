@@ -3,15 +3,75 @@
   "WorkspaceRootPath": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\scripts\\gamescene\\opendoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\scripts\\gamescene\\opendoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|d:\\desktop\\gamejamgit\\gamejam\\unityproject\\assets\\gamejam\\scripts\\gamescene\\wcrandomcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\scripts\\gamescene\\wcrandomcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\scripts\\gamescene\\bornpontsmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\scripts\\gamescene\\bornpontsmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\scripts\\playercontroller\\playerctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\scripts\\playercontroller\\playerctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\scripts\\gamescene\\grouprandomcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\scripts\\gamescene\\grouprandomcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\scripts\\gamescene\\bookopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\scripts\\gamescene\\bookopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\scripts\\framework\\audiomgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\scripts\\framework\\audiomgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\scripts\\gamescene\\camerablack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\scripts\\gamescene\\camerablack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\scripts\\gamescene\\chostctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\scripts\\gamescene\\chostctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\scripts\\framework\\sington.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\scripts\\framework\\sington.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\art\\sequence frame\\sfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\art\\sequence frame\\sfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\scripts\\gamescene\\foodeating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\scripts\\gamescene\\foodeating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\desktop\\gamejamgit\\gamejam\\unityproject\\assets\\gamejam\\scripts\\gamescene\\frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\gamejam\\scripts\\gamescene\\frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\scripts\\gamescene\\scalechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\scripts\\gamescene\\scalechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\scripts\\gamescene\\timer\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\scripts\\gamescene\\timer\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\scripts\\lunchscene\\ui\\startpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\scripts\\lunchscene\\ui\\startpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|d:\\desktop\\gamejamgit\\gamejam\\unityproject\\assets\\gamejam\\scripts\\framework\\ui\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\scripts\\framework\\ui\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\scripts\\framework\\ui\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|d:\\desktop\\gamejamgit\\gamejam\\unityproject\\assets\\gamejam\\scripts\\lunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\scripts\\lunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\scripts\\lunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -33,6 +93,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\scripts\\gameapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{699BFBDD-069E-A744-7432-5E3032D3359B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamejam\\scripts\\gameapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\assets\\gamejam\\resources\\prefabs\\scripts\\player\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\gamejam\\resources\\prefabs\\scripts\\player\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,8 +109,209 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "WCRandomCreate.cs",
+              "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\WCRandomCreate.cs",
+              "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\GameScene\\WCRandomCreate.cs",
+              "ToolTip": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\WCRandomCreate.cs",
+              "RelativeToolTip": "Assets\\GameJam\\Scripts\\GameScene\\WCRandomCreate.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAwGMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:27:16.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenDoor.cs",
+              "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\OpenDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\GameScene\\OpenDoor.cs",
+              "ToolTip": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\OpenDoor.cs",
+              "RelativeToolTip": "Assets\\GameJam\\Scripts\\GameScene\\OpenDoor.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:31:22.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupRandomCreate.cs",
+              "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\GroupRandomCreate.cs",
+              "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\GameScene\\GroupRandomCreate.cs",
+              "ToolTip": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\GroupRandomCreate.cs",
+              "RelativeToolTip": "Assets\\GameJam\\Scripts\\GameScene\\GroupRandomCreate.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAHsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:12:44.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BornPontsMgr.cs",
+              "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\BornPontsMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\GameScene\\BornPontsMgr.cs",
+              "ToolTip": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\BornPontsMgr.cs",
+              "RelativeToolTip": "Assets\\GameJam\\Scripts\\GameScene\\BornPontsMgr.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:04:45.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerCtrl.cs",
+              "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\PlayerController\\PlayerCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\PlayerController\\PlayerCtrl.cs",
+              "ToolTip": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\PlayerController\\PlayerCtrl.cs",
+              "RelativeToolTip": "Assets\\GameJam\\Scripts\\PlayerController\\PlayerCtrl.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:46:56.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookOpen.cs",
+              "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\BookOpen.cs",
+              "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\GameScene\\BookOpen.cs",
+              "ToolTip": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\BookOpen.cs",
+              "RelativeToolTip": "Assets\\GameJam\\Scripts\\GameScene\\BookOpen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T03:54:45.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AudioMgr.cs",
+              "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\FrameWork\\AudioMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\FrameWork\\AudioMgr.cs",
+              "ToolTip": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\FrameWork\\AudioMgr.cs",
+              "RelativeToolTip": "Assets\\GameJam\\Scripts\\FrameWork\\AudioMgr.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T03:09:56.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraBlack.cs",
+              "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\CameraBlack.cs",
+              "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\GameScene\\CameraBlack.cs",
+              "ToolTip": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\CameraBlack.cs",
+              "RelativeToolTip": "Assets\\GameJam\\Scripts\\GameScene\\CameraBlack.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:14:13.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "foodEating.cs",
+              "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\foodEating.cs",
+              "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\GameScene\\foodEating.cs",
+              "ToolTip": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\foodEating.cs",
+              "RelativeToolTip": "Assets\\GameJam\\Scripts\\GameScene\\foodEating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:08:09.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SFcontroller.cs",
+              "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Art\\sequence frame\\SFcontroller.cs",
+              "RelativeDocumentMoniker": "Assets\\GameJam\\Art\\sequence frame\\SFcontroller.cs",
+              "ToolTip": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Art\\sequence frame\\SFcontroller.cs",
+              "RelativeToolTip": "Assets\\GameJam\\Art\\sequence frame\\SFcontroller.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAvwE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T03:42:44.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sington.cs",
+              "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\FrameWork\\Sington.cs",
+              "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\FrameWork\\Sington.cs",
+              "ToolTip": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\FrameWork\\Sington.cs",
+              "RelativeToolTip": "Assets\\GameJam\\Scripts\\FrameWork\\Sington.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:47:32.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChostCtrl.cs",
+              "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\ChostCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\GameScene\\ChostCtrl.cs",
+              "ToolTip": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\ChostCtrl.cs",
+              "RelativeToolTip": "Assets\\GameJam\\Scripts\\GameScene\\ChostCtrl.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:38:58.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Resources\\Prefabs\\Scripts\\Player\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\GameJam\\Resources\\Prefabs\\Scripts\\Player\\CameraFollow.cs",
+              "ToolTip": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Resources\\Prefabs\\Scripts\\Player\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\GameJam\\Resources\\Prefabs\\Scripts\\Player\\CameraFollow.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADgvxgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:55:04.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frog.cs",
+              "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\frog.cs",
+              "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\GameScene\\frog.cs",
+              "ToolTip": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\frog.cs",
+              "RelativeToolTip": "Assets\\GameJam\\Scripts\\GameScene\\frog.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAIBUwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:46:56.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScaleChanger.cs",
+              "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\ScaleChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\GameScene\\ScaleChanger.cs",
+              "ToolTip": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\ScaleChanger.cs",
+              "RelativeToolTip": "Assets\\GameJam\\Scripts\\GameScene\\ScaleChanger.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:27:59.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\Timer\\Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\GameScene\\Timer\\Timer.cs",
+              "ToolTip": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\Timer\\Timer.cs",
+              "RelativeToolTip": "Assets\\GameJam\\Scripts\\GameScene\\Timer\\Timer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:21:53.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "BasePanel.cs",
               "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\FrameWork\\UI\\BasePanel.cs",
               "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\FrameWork\\UI\\BasePanel.cs",
@@ -54,16 +319,11 @@
               "RelativeToolTip": "Assets\\GameJam\\Scripts\\FrameWork\\UI\\BasePanel.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAgwC8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:36:01.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2024-11-24T13:36:01.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
               "Title": "StartPanel.cs",
               "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\LunchScene\\UI\\StartPanel.cs",
               "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\LunchScene\\UI\\StartPanel.cs",
@@ -71,12 +331,11 @@
               "RelativeToolTip": "Assets\\GameJam\\Scripts\\LunchScene\\UI\\StartPanel.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAAADAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:11:01.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T13:11:01.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "Lunch.cs",
               "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\Lunch.cs",
               "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\Lunch.cs",
@@ -84,12 +343,11 @@
               "RelativeToolTip": "Assets\\GameJam\\Scripts\\Lunch.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:04:50.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T13:04:50.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
               "Title": "GameApp.cs",
               "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameApp.cs",
               "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\GameApp.cs",
@@ -101,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
               "Title": "LunchUIMgr.cs",
               "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\LunchScene\\UI\\LunchUIMgr.cs",
               "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\LunchScene\\UI\\LunchUIMgr.cs",
@@ -109,12 +367,11 @@
               "RelativeToolTip": "Assets\\GameJam\\Scripts\\LunchScene\\UI\\LunchUIMgr.cs",
               "ViewState": "AQIAAGYAAAAAAAAAAAAIwFwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T12:22:03.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T12:22:03.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "UIMgr.cs",
               "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\FrameWork\\UI\\UIMgr.cs",
               "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\FrameWork\\UI\\UIMgr.cs",
@@ -126,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
               "Title": "TypingEffect.cs",
               "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\TypingEffect.cs",
               "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\GameScene\\TypingEffect.cs",
@@ -138,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
               "Title": "UIController.cs",
               "DocumentMoniker": "D:\\DeskTop\\GameJamgit\\GameJam\\unityProject\\Assets\\GameJam\\Scripts\\GameScene\\UIController\\UIController.cs",
               "RelativeDocumentMoniker": "Assets\\GameJam\\Scripts\\GameScene\\UIController\\UIController.cs",
